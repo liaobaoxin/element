@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/element-common/elementcommon.iml" filepath="$PROJECT_DIR$/element-common/elementcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/element-logging/elementlogging.iml" filepath="$PROJECT_DIR$/element-logging/elementlogging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/element-system/elementsystem.iml" filepath="$PROJECT_DIR$/element-system/elementsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/element-tools/elementtools.iml" filepath="$PROJECT_DIR$/element-tools/elementtools.iml" />
+    </modules>
+  </component>
+</project>
